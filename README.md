@@ -1,10 +1,10 @@
 ### Hi there👋, I'm Taibah Bagwan
 ###    A developer from India who loves to code and explore!
 
-- 🌱 I’m currently learning data science and reactjs.
+- 🌱 I’m currently learning data science and SAP.
 - 👯 I’m looking to collaborate on any data science or c++ programming projects.
 - 🤔 I’m looking for help with backend development.
-- ⚡ Hobbies: I love reading novels:)
+- ⚡ Fun fact: I love to code:)
 - 📫 How to reach me: taibahbagwan10@gmail.com
 
 ### Languages and Tools:
