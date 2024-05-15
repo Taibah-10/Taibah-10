@@ -8,7 +8,7 @@
 - 📫 How to reach me: taibahbagwan10@gmail.com
 
 ### Languages and Tools:
-cplusplus css3 html5 javascript python bootstrap django
+#00599C
 
 <!--
 **Taibah-10/Taibah-10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
